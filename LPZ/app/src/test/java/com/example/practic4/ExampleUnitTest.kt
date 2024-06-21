@@ -1,4 +1,4 @@
-package com.example.lpz
+package com.example.practic4
 
 import org.junit.Test
 

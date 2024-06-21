@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "LPZ"
+rootProject.name = "Practic4"
 include(":app")
  

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.lpz"
+    namespace = "com.example.practic4"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.lpz"
+        applicationId = "com.example.practic4"
         minSdk = 28
         targetSdk = 34
         versionCode = 1
